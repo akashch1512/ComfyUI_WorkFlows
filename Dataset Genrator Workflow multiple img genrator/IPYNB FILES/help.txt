@@ -1,0 +1,5 @@
+# first run models and dependency.ipynb file for installing dependecny and models
+
+# you can run run_comfyui file anytime when you want to start ComfyUI
+
+# if you encounter any error you can run fix_error.ipynb
