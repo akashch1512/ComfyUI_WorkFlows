@@ -2,7 +2,7 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 
-pip install huggingface-hub==0.35.0 hf_transfer
+pip install huggingface-hub==0.35.0 hf_transfer --upgrade gdown
 
 pip install \
     torch torchvision torchaudio \
