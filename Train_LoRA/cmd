@@ -2,6 +2,8 @@ python3 -m venv .venv
 
 source .venv/bin/activate
 
+pip install huggingface-hub==0.35.0 hf_transfer
+
 pip install \
     torch torchvision torchaudio \
     transformers==4.56.1 diffusers==0.35.1 accelerate==1.10.1 safetensors==0.6.2 \
